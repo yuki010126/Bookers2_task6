@@ -18,7 +18,7 @@ rails学習のアウトプット<br  />
 ・いいね,コメント機能を非同期通信
 
 ## 環境
-・HTML5<br  />
-・CSS3<br  />
-・rails<br  />
+・HTML5<br>
+・CSS3<br>
+・rails<br>
 ・refile
